@@ -116,7 +116,7 @@ void receiveRGB() {
     }
   }
 
-  stroke(b);
+  stroke(g);
   point(x, y);
 }
 
